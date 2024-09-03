@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cklentown.github.io/sitemap.html.gz
+Sitemap: https://cklentown.github.io/app/sitemap.html.gz
+Sitemap: https://cklentown.github.io/assets/sitemap.html.gz
+Sitemap: https://cklentown.github.io/css/sitemap.html.gz
+Sitemap: https://cklentown.github.io/includes/sitemap.html.gz
+Sitemap: https://cklentown.github.io/item/sitemap.html.gz
+Sitemap: https://cklentown.github.io/src/sitemap.html.gz
